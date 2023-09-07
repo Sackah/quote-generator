@@ -57,7 +57,7 @@ function lightenColor(color, factor) {
 }
 
 const getRandomQuote = () => {
-  let randomNumber = Math.floor(Math.random()*quotes.length) + 1;
+  let randomNumber = Math.floor(Math.random()*quotes.length);
   return quotes[randomNumber];
 }
 
