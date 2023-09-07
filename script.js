@@ -21,7 +21,7 @@ const quotes = [{quote: " Surviving is winning Franklin, everything else is bull
 {quote: " All your base are belong to us", author: "CATS"},
 {quote: " Snake? Snake! Snaaaaake!", author: "Otacon"},
 {quote: " War. War never changes", author: "Fallout Narrator"},
-{quote: " You forget an thousand things everyday pal. Make sure this is one of them", author: "Michael Da Santa"},
+{quote: " You forget a thousand things everyday pal. Make sure this is one of them", author: "Michael Da Santa"},
 {quote: " The definition of insanity is doing the same thing over and over again and expecting different results", author: "Vaas"},
 {quote: " A hero needs not speak. When he is gone, the world will speak for him", author: "Master Chief"},
 {quote: " Kept you waiting huh?", author: "Solid Snake"},
